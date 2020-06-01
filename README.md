@@ -1,9 +1,13 @@
 # GreedIsNotGood
 
 How to Play Greed Is Not Good :
+
     1. Clone the repository
+
     2. Run main.py
+
     3. Enjoy !
+    
 
 backgroundimage.py : Berisi code menambahkan background dengan PyGame.
 
