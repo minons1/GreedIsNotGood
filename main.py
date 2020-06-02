@@ -301,6 +301,8 @@ def track_winner():
         game_element[1].text = "Computer"
         if turn == 1:
             game_element[4].text = "Computer's turn"
+        else:
+            game_element[4].text = "Player 1's turn"
     elif gameMode == 2 and not isEnd:
         if turn == 0:
             game_element[4].text = "Player 1's turn"
